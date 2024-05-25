@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+vite-env.d.ts
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+# Ignore artifacts:
+build
+coverage
